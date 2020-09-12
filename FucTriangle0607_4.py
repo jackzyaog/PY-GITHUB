@@ -29,6 +29,8 @@ for t in triange1(10):
 for t in triange1(15):
     print(t)  
 
-
+# print(triange1(20))
+for t in triange1(20):
+    print(t)
 
 

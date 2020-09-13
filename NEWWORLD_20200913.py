@@ -5,3 +5,8 @@ a = 'miami'
 b = 'odin'
 print(a+b)
 
+m = 'chicago'
+n = 'new to '
+l = 'Im '
+
+print(l+n+m)

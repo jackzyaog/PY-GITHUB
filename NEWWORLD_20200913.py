@@ -14,3 +14,6 @@ print(l+n+m)
 print(l+n+m+l)
 
 print(l+n+m+at)
+
+for x in range(5):
+    print('the result of x*x is',x*x)
